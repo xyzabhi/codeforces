@@ -1,0 +1,1 @@
+{"name":"Local: panagram","url":"/home/abkech/codeforces/ratinglessthan1300/panagram.cpp","tests":[{"id":1615876861503,"input":"35\nTheQuickBrownFoxJumpsOverTheLazyDog\n","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abkech/codeforces/ratinglessthan1300/panagram.cpp","group":"local","local":true}
